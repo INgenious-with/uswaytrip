@@ -26,7 +26,7 @@
 - JDK 1.8<br>
 - jsp/servlet 3.1<br>
 
-<br>
+<br><br>
 <h2>3. ERD</h2>
 
 ![UsWayTrip ERD](https://github.com/INgenious-with/uswaytrip/assets/120389213/d930ded9-6912-49eb-b0c4-0d9242009a4c)
