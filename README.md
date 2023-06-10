@@ -16,7 +16,7 @@
 - Oracle<br>
 - MyBatis<br>
 - Maven<br>
-- Apachi Tomcat<br>
+- Apache Tomcat<br>
 - Java Script<br>
 - jQuery<br>
 - Visual Studio Code<br>
