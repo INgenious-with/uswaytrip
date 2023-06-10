@@ -17,11 +17,11 @@
 - MyBatis<br>
 - Maven<br>
 - Apache Tomcat<br>
-- Java Script<br>
+- JavaScript<br>
 - jQuery<br>
-- Visual Studio Code<br>
+- VSCode
 - DBeaver<br>
-- git, github<br>
+- git, git hub<br>
 - JSON<br>
 - JDK 1.8<br>
 - jsp/servlet 3.1<br>
