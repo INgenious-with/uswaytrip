@@ -1,7 +1,7 @@
 <h1>여행사 관련 사이트 - 'UsWayTrip'</h1>
 
 <br>
-<h2>1. 프로젝트 기획 의도</h2>
+<h2>1. 프로젝트 개요</h2>
 
 ![기획 의도](https://github.com/INgenious-with/uswaytrip/assets/120389213/bc63da03-bd22-4c6d-b29c-f293cc9c92b9)
 
